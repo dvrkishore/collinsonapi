@@ -42,7 +42,7 @@ Goto collinsonAPI/citibikiAPIRestAssured project.  In the src/test/java folder s
                       \src\test\java\stepDefinitions\MyStepDefs.java
                       
                       This package consists of all the utility methods required
-                      \collinsonAPI\citibikeAPIRestAssured\src\test\java\resources\NetworkUtility.java
+                      \src\test\java\resources\NetworkUtility.java
 
 ## Ways to Execute the Project:
 
