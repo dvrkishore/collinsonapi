@@ -23,23 +23,23 @@ Goto collinsonAPI/citibikiAPIRestAssured project.  In the src/test/java folder s
 * featureFiles --> 
                 
                       This package consists of cityBike.feature file where in the actual test scenario is defined.
-                      \collinsonAPI\citibikeAPIRestAssured\src\test\java\featureFiles\cityBike.feature
+                      \src\test\java\featureFiles\cityBike.feature
 * model --> 
     
                       This package consists of the Location class with the getters and setters defined for the fields city, country, latitude and longitude.
-                      \collinsonAPI\citibikeAPIRestAssured\src\test\java\model\Location.java
+                      \src\test\java\model\Location.java
 * resources -->       
 
                       This package also consists of the config.properties file where the BaseURL is configured.
-                      \collinsonAPI\citibikeAPIRestAssured\src\test\java\resources\config.properties
+                      \src\test\java\resources\config.properties
 * runner --> 
 
                       This package consists of the TestRunner.class file
-                      \collinsonAPI\citibikeAPIRestAssured\src\test\java\runner\TestRunner.java
+                      \src\test\java\runner\TestRunner.java
 * stepDefinitions --> 
                       
                       This package consists of MyStepDefs.java class which is defined with all the step definitions derived from the cucumber feature file.
-                      \collinsonAPI\citibikeAPIRestAssured\src\test\java\stepDefinitions\MyStepDefs.java
+                      \src\test\java\stepDefinitions\MyStepDefs.java
                       
                       This package consists of all the utility methods required
                       \collinsonAPI\citibikeAPIRestAssured\src\test\java\resources\NetworkUtility.java
